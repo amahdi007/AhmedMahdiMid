@@ -48,55 +48,35 @@ public class Sort {
         int [] list = array;
         //implement here
 
-        
-        
         return list;
     }
-    
-
     public int [] mergeSort(int [] array){
         int [] list = array;
         //implement here
-        
-        
 
         return list;
     }
-    
-
     public int [] quickSort(int [] array){
         int [] list = array;
         //implement here
-        
-        
 
         return list;
     }
-    
     public int [] heapSort(int [] array){
         int [] list = array;
         //implement here
-        
-        
 
         return list;
     }
-
 
     public int [] bucketSort(int [] array){
         int [] list = array;
         //implement here
-        
-        
-
         return list;
     }
-    
     public int [] shellSort(int [] array){
         int [] list = array;
         //implement here
-        
-        
 
         return list;
     }
